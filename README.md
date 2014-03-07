@@ -1,6 +1,6 @@
 # New Tab G
 
-New Tag G is a Chromium browser extension that redirects new tabs (not homepage) to `https://www.google.com`.
+[New Tag G](https://chrome.google.com/webstore/detail/new-tab-g/nfkcmdcjnelhmnaippjpmbameoaploik) is a Chromium browser extension that redirects new tabs (not homepage) to `https://www.google.com`.
 
 It is incredibly simple, free, and no special Chromium permissions are required to use.
 
